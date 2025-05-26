@@ -1,0 +1,32 @@
+{
+"url": "https://ogamezm.predator7584.bplaced.net/",
+"login": "buzz@buzz.de",
+"pass": "BuzzZM2025",
+"cookie": "",
+"planets": {
+    "0":{
+        "set_url": "",
+        "buildings":{
+            "Metal Mine":18,
+            "Crystal Mine":15,
+            "Deuterium Synthesizer":8,
+            "Solar Plant":16,
+            "Fusion Reactor":0,
+            "Metal Storage":0,
+            "Crystal Storage":0,
+            "Deuterium Tank":0,
+            "Robotics Factory":0,
+            "Nanite Factory":0,
+            "Shipyard":1,
+            "Research Lab":1,
+            "Terraformer":0,
+            "Alliance Depot":0,
+            "Lunar Base":0,
+            "Sensor Phalanx":0,
+            "Jump Gate":0,
+            "Missile Silo":0
+        }
+    }
+}
+}
+
